@@ -20,7 +20,8 @@ Outer space, commonly shortened to space, is the expanse that exists beyond Eart
 
 The plasma between galaxies is thought to account for about half of the baryonic (ordinary) matter in the universe, having a number density of less than one hydrogen atom per cubic metre and a kinetic temperature of millions of kelvins.[3] Local concentrations of matter have condensed into stars and galaxies. Intergalactic space takes up most of the volume of the universe, but even galaxies and star systems consist almost entirely of empty space. Most of the remaining mass-energy in the observable universe is made up of an unknown form, dubbed dark matter and dark energy.
 
+#retained value of M =50000 fom the test branch
+
 
 Add M=50000
-
 Add N=M-100000
